@@ -1,0 +1,5 @@
+---
+- name: Print Hello Ansible
+  hosts: localhost
+  role:
+    - sample
